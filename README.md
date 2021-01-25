@@ -30,6 +30,11 @@
 - git Dokumentáció: https://git-scm.com/doc
 - GitHub Bevezető: https://guides.github.com/activities/hello-world/
 - Git Beginner (Atlassian): https://www.atlassian.com/git/tutorials
+- Git alapok (lejátszási lista): https://www.youtube.com/watch?v=XDKZu9kuEn8&list=PLyriihBWoulw1KQ2aM-NMnAoVPZevfmZq
+
+### Trello
+- Hivatalos oldala: https://trello.com/
+- A Trello használata hatékonyan home office-ban (videó): https://www.youtube.com/watch?v=jSMzo6bZGgU
 
 ### Figma
 - Hivatalos oldala: https://www.figma.com/
